@@ -4,6 +4,7 @@ This is a very simple notification app that runs in a loop. I've put very little
 
 ```JavaScript
 git clone https://github.com/bobonthenet/notifier.git
+cd notifier
 npm install
 node notify.js
 ```
