@@ -9,6 +9,6 @@
   "author": "BobbyB.",
   "license": "ISC",
   "dependencies": {
-    "node-notifier": "^5.4.3"
+    "node-notifier": "^8.0.1"
   }
 }
